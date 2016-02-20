@@ -18,14 +18,14 @@ body {
 }
 
 #MainText {
-	font-size: 7vw; 
+	font-size: 6vw; 
 	text-align: center;
 	margin-top:0px;
 	margin-bottom:0px;
 	font-family:Arial, Helvetica, sans-serif;
 }
 #SubText {
-	font-size: calc(3vw + 0px);
+	font-size: calc(1vw + 0px);
 	text-align: center; 
 	font-family:Tahoma, Geneva, sans-serif;
 }
